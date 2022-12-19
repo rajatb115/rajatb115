@@ -1,4 +1,5 @@
-### Hey there ![Alt text](https://github.com/rajatb115/rajatb115/blob/main/images/hi_there.gif)
+<h1><img src="https://github.com/rajatb115/rajatb115/blob/main/images/hi_there.gif" width="30"/> Hey! Nice to see you.</h1>
+
 
 <!--
 **rajatb115/rajatb115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
