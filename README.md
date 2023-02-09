@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 <h3> Books </h3>
 
-- [] Deep Learning with Python. (Author: Francois Chollet)
+- [ ] Deep Learning with Python. (Author: Francois Chollet)
