@@ -21,5 +21,11 @@ Here are some ideas to get you started:
 
 <h3>🔭 My 2023 Reading list:</h3>
 
+<h3> Research Papers </h3>
+
 - [x] Symphony: Towards Natural Language Query Answering over Multi-modal Data Lakes - CIDR 2023
 - [X] WarpGate: A Semantic Join Discovery System for Cloud Data Warehouses - CIDR 2023
+
+<h3> Books </h3>
+
+- [] Deep Learning with Python. (Author: Francois Chollet)
