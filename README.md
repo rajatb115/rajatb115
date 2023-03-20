@@ -26,6 +26,9 @@ Here are some ideas to get you started:
 - [x] Symphony: Towards Natural Language Query Answering over Multi-modal Data Lakes - CIDR 2023
 - [X] WarpGate: A Semantic Join Discovery System for Cloud Data Warehouses - CIDR 2023
 - [X] Can Foundational Models Wrangle Your Data? - PLDV 2022
+- [X] Table-To-Text generation and pre-training with TABT5 - ArXiv 2022
+- [ ] Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer - ArXiv 2019
+- [ ] TABLEFORMER: Robust Transformer Modeling for Table-Text Encoding - ACL 2022
 
 <h3> Books </h3>
 
