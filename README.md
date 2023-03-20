@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 - [x] Symphony: Towards Natural Language Query Answering over Multi-modal Data Lakes - CIDR 2023
 - [X] WarpGate: A Semantic Join Discovery System for Cloud Data Warehouses - CIDR 2023
+- [X] Can Foundational Models Wrangle Your Data? - PLDV 2022
 
 <h3> Books </h3>
 
